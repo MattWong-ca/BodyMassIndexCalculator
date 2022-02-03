@@ -4,7 +4,6 @@ A multiscreen BMI Calculator app
 - Incorporates MVC pattern
 
 # Screenshots
-<img src="https://github.com/MattWong-ca/BodyMassIndexCalculator/blob/main/BMICalculatorScreenshots/HomeScreenBMI.png" alt="HomeScreenBMI"/>
-<img src="https://github.com/MattWong-ca/BodyMassIndexCalculator/blob/main/BMICalculatorScreenshots/EatLessResult.png" alt="HomeScreenBMI"/>
-<img src="https://github.com/MattWong-ca/BodyMassIndexCalculator/blob/main/BMICalculatorScreenshots/EatMoreResult.png" alt="HomeScreenBMI"/>
-<img src="https://github.com/MattWong-ca/BodyMassIndexCalculator/blob/main/BMICalculatorScreenshots/NormalResult.png" alt="HomeScreenBMI"/>
+<img src="https://github.com/MattWong-ca/BodyMassIndexCalculator/blob/main/BMICalculatorScreenshots/HomeScreenBMI.png" width=30% height=30%> <img src="https://github.com/MattWong-ca/BodyMassIndexCalculator/blob/main/BMICalculatorScreenshots/EatLessResult.png" width=30% height=30%>
+
+<img src="https://github.com/MattWong-ca/BodyMassIndexCalculator/blob/main/BMICalculatorScreenshots/EatMoreResult.png" width=30% height=30%> <img src="https://github.com/MattWong-ca/BodyMassIndexCalculator/blob/main/BMICalculatorScreenshots/NormalResult.png" width=30% height=30%>
